@@ -1,6 +1,6 @@
 # 🔧PIPE Management System🔧
 
-# 참가정보
+# ✏참가정보
 
 - 2021ESWContest_4energy
 - 팀명 :  GB
