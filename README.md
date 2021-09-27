@@ -4,6 +4,7 @@
 
 - 2021ESWContest_4energy
 - 팀명 :  GB
+- 팀번호 : 1068
 - 작품명 : Pipe Management System
 - 팀원 : 김경환, 김채원
 
