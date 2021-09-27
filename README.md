@@ -6,7 +6,8 @@
 - 팀명 :  GB
 - 팀번호 : 1068
 - 작품명 : Pipe Management System
-- 팀원 : 김경환, 김채원
+- 팀장 : 김경환
+- 팀원 : 김채원
 
 # ✏작품정보
 - 주제 : Metaverse 기술을 이용하여 관리할 PIPE를 3D modeling하여 Sector별 관리자의 Gas 배관 관리를 돕고 Machine Learning기술로 가스 누출을 알리는 System
